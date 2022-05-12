@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hong Jin @sarrrdin
 - 👀 I’m a Computer Science Undergraduate in the National University of Singapore
-- 🌱 I love to explore the world of software engineering
+- 🌱 I love to explore the world of Software Engineering
 - 📫 Feel free to reach me at hongjin01@u.nus.edu 
 - or my LinkedIn profile at https://www.linkedin.com/in/hong-jin-chew/
 
